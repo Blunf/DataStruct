@@ -19,7 +19,7 @@ public class test2 {
         hashTable.put("20230011", "Son h");
         hashTable.put("20230012", "Yoon sa");
         hashTable.put("20230013", "Jang j");
-        hashTable.put("20230014", "Um j");
+        hashTable.put("20230014", "Yun j");
         hashTable.put("20230015", "Min s");
 
         
