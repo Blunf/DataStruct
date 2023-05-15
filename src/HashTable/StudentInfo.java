@@ -4,6 +4,10 @@ public class StudentInfo{
     private String studentID;
     private String studentName;
 
+    public StudentInfo(String k, String v) {
+        this.studentID =k;
+        this.studentName=v;
+    }
     public void setStudentID(String id){
         this.studentID = id;
     }
