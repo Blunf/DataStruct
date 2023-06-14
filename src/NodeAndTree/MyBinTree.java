@@ -2,10 +2,10 @@ package NodeAndTree;
 
 public class MyBinTree extends MyTree{
     
-    MyBinTree(){
+    protected MyBinTree(){
         super();
     }
-    MyBinTree(Object e){
+    protected MyBinTree(Object e){
         super(e);
     }
 
